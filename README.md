@@ -22,13 +22,18 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  $ git clone https://github.com/AdityaTwinz/SCF
  ```
 #### oke sekarang script sudah terinstall
-##### CARA MENJALANKAN SCRIPT:
+##### CARA INSTALL BAHAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
   $ cd STF
   $ pip install -r assets/requirements.txt
-  $ python run.py
+  $ python build.py
  ```
+
+##### CARA MENJALANKAN TOOLS
+```
+python run.py
+```
 
 ##### ALL MENU:
 [![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141146.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
