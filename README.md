@@ -7,7 +7,7 @@
 ##### Deskripsi:
 **SCF** dibuat pada **3 Oktober 2023** lalu saya bagikan ke publik pada tanggal ```25 Oktober 2023``` dengan versi 1.5 yang tersedia di termux dan pydroid3. [SCF](https://github.com/AdityaTwinz/SCF) adalah induk dari semua script sehingga semua fitur akan sangat bagus di sini.
 
-![SCF-Image](https://i.ibb.co/F5wxh9H/11b87d6a-9936-4b13-b3ca-771c3de5c2c1.jpg)
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141123.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap saat. Anda tidak perlu khawatir jika terjadi masalah karena script ini akan mempelajari cara update selanjutnya.
 
@@ -29,8 +29,6 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
   $ pip install -r assets/requirements.txt
   $ python run.py
  ```
-##### TAMPILAN MENU:
-[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141123.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 ##### ALL MENU:
 [![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141146.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
