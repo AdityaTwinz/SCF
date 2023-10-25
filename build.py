@@ -25,7 +25,7 @@ class Main:
 			
 	def create_run(self):
 		with open("run.py","w") as run:
-			run.write("from SCF import Menu\nMenu().menu()")
+			run.write("from SCF import Lisensi\nLisensi().ChekingLisensi()")
 		exit(" Selesai Menginstall, Silahkan Ketik : python run.py")
 	
 Main().build()
