@@ -21,17 +21,18 @@
   $ python run.py
  ```
 ##### TAMPILAN MENU:
-[![@adityaexec_](https://github.com/AdityaTwinz/STF/blob/main/images/Screenshot_2023-10-21-11-45-11-77_84d3000e3f4017145260f7618db1d683.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141123.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
-##### MENU TAMBAHAN:
-[![@adityaexec_](https://github.com/AdityaTwinz/STF/blob/main/images/IMG_20231021_221926.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+##### ALL MENU:
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141146.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+
+##### RESULTS CRACK:
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141105.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
+**[notice me:](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)** ```hasil ok atau cp tergantung banyaknya target ya```
+
 
 #### watch me
 **[gunakanlah](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)** dengan bijak, atas apapun yang terjadi **admin** tidak akan bertanggung jawab.
-
-``
-print("happy Craking!")
-``
 
 ###### Thanks for [AdityaTwinz](https://github.com/AdityaTwinz) and [Xyaa-Code](https://github.com/Xyaa-Code)
 
