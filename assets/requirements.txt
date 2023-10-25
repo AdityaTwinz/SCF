@@ -2,5 +2,3 @@ requests
 bs4
 rich
 cython
-futurese
-colorama
