@@ -26,6 +26,7 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
   $ cd STF
+  $ git pull
   $ pip install -r assets/requirements.txt
   $ python build.py
  ```
