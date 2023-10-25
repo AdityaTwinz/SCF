@@ -2,7 +2,7 @@
 **[Premium](https://www.facebook.com/AD1TY4)** merupakan script yang dibuat dengan menggunakan bahasa pemrograman Python yang mempunyai fungsi untuk **Hack Facebook** akun secara acak dengan daftar kata sandi yang mudah. Script ini sangat direkomendasikan untuk pemula karena ada berbagai macam cara untuk menggunakan script ini.
 
 
-[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/Hitam%20dan%20Gradasi%20Ungu%20Biru%20Animasi%20Liquid%20Pink%20Youtube%20Intro%20dan%20Outro.gif)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/askhhhh.gif)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
