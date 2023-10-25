@@ -4,7 +4,7 @@ from Cython.Build import cythonize
 
 class Main:
 	def __init__(self):
-		self.file = "SCF.cpp"
+		self.file = "scftools.cpp"
 		
 	def build(self):
 		print(" Sedang Proses Build, Tunggu Sampai Selesai")
@@ -25,7 +25,7 @@ class Main:
 			
 	def create_run(self):
 		with open("run.py","w") as run:
-			run.write("from SCF import Lisensi\nLisensi().ChekingLisensi()")
+			run.write("from scftools import Lisensi\nLisensi().ChekingLisensi()")
 		exit(" Selesai Menginstall, Silahkan Ketik : python run.py")
 	
 Main().build()
