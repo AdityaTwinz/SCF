@@ -17,7 +17,9 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
  ```
  $ pkg update && pkg upgrade
- $ pkg install python git
+ $ pkg install python
+ $ pkg install git
+ $ pip install cython
  $ rm -rf SCF
  $ git clone https://github.com/AdityaTwinz/SCF
  ```
