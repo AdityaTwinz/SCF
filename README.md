@@ -42,7 +42,8 @@ python run.py
 [![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_141146.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 ##### RESULTS CRACK:
-[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231025_213402.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231028_235239.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
+[![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/IMG_20231028_231046.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)
 **[notice me:](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang)** **banyaknya hasil ok atau cp tergantung target ya**
 
 
