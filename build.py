@@ -25,7 +25,7 @@ class Main:
 			
 	def create_run(self):
 		with open("run.py","w") as run:
-			run.write("from scftools import Lisensi\nos.system('git pull')\nLisensi().ChekingLisensi()")
+			run.write("import os\nfrom scftools import Lisensi\nos.system('git pull')\nLisensi().ChekingLisensi()")
 		exit(" Selesai Menginstall, Silahkan Ketik : python run.py")
 	
 Main().build()
