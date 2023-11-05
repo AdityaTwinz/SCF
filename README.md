@@ -19,7 +19,6 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
  $ pkg update && pkg upgrade
  $ pkg install python
  $ pkg install git
- $ pip install cython
  $ rm -rf SCF
  $ git clone https://github.com/AdityaTwinz/SCF
  ```
@@ -27,10 +26,8 @@ Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap s
 ##### CARA INSTALL BAHAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
-  $ cd STF
-  $ git pull
+  $ cd SCF
   $ pip install -r assets/requirements.txt
-  $ python build.py
  ```
 
 ##### CARA MENJALANKAN TOOLS
