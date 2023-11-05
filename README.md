@@ -1,5 +1,5 @@
 # Simple Crack Facebook - Premium Projects
-**[SCF](https://www.facebook.com/AD1TY4)** merupakan script yang dibuat dengan menggunakan bahasa pemrograman Python yang mempunyai fungsi untuk **Hack Facebook** akun secara acak dengan daftar kata sandi yang mudah. Script ini sangat direkomendasikan untuk pemula karena ada berbagai macam cara untuk menggunakan script ini.
+**[SCF](https://www.facebook.com/AD1TY4)** merupakan script yang dibuat dengan menggunakan bahasa pemrograman ```Python``` yang mempunyai fungsi untuk **Hack Facebook** akun secara acak dengan daftar kata sandi yang mudah. Script ini sangat direkomendasikan untuk pemula karena ada berbagai macam cara untuk menggunakan script ini.
 
 
 [![@adityaexec_](https://github.com/AdityaTwinz/SCF/blob/main/assets/askhhhh.gif)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
